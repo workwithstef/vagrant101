@@ -12,8 +12,14 @@ Types:
 #### DevOps problems and solutions
 
 ### Vagrant
-
+vagrant up
+vagrant ssh
+sudo apt-get install nginx -y
+sudo systemctl restart nginx
 ### Virtual box
+#### automate vagrant up
+
+shell script
 
 ### 4 pillars of DevOps
 Ease of Use, Robustness, Flexibility, Cost
